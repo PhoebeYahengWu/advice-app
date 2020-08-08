@@ -7,7 +7,7 @@
 
 .app {
   height: 100%;
-  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('https://cdn.glitch.com/cd99f035-ecbc-4ddd-9a8c-d2f6b5fff534%2Fpublicspeaking.jpg?v=1572927430881');
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('https://cdn.glitch.com/e7ec1ecc-8235-4381-8966-9202576ad0f6%2Fbeach-1866992_1920.jpg?v=1573703781730');
   background-size: cover;
   background-position: center;
   display: flex;
@@ -25,7 +25,6 @@
   flex-direction: column;
   border-radius: 25px;
   padding: 2%;
-  box-shadow: 2px 2px;
 }
 
 .heading {
