@@ -31,7 +31,7 @@ class App extends Component {
     return(
       <div className="app">
         <div className="card">
-          <h1 className="heading">{advice}</h1>
+          <h2 className="heading">{advice}</h2>
           <button className="button" onClick={this.fetchAdvice}>
             <span>GIVE ME ADVICE!</span>
           </button>
